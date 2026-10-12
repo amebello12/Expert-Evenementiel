@@ -1,0 +1,6 @@
+{
+  "name": "Expert Événementiel",
+  "description": "Expert Événementiel Sénégal : Location de sonorisation professionnelle, DJ & animation, audiovisuel et plateforme complète de billetterie en ligne avec paiement Wave et Orange Money au Sénégal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
